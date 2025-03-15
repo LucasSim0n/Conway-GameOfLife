@@ -34,7 +34,8 @@ The project is split into two components:
 
 ### Run the application
 ```bash
-python main.py ```
+python main.py
+```
 
 ## 🎨 Controls
 
